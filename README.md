@@ -1,6 +1,6 @@
 # python-selenium-pom
 
-This repository is the result of my independent project to train certain things in E2E QA Automation.
+This repository is the result of my independent project to train certain things in QA Automation.
 
 I spent 2 days on the realization and setting up this project. JavaScript programming language was used to write the code.
 
